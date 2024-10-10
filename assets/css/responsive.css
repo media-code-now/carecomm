@@ -1,0 +1,3015 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+ 
+  .feature-case-title h5::before {
+   display: none;
+  }
+  
+  .home-content h1 {
+    font-size: 50px;
+ }
+
+.feature-case-content h4 {
+  font-size: 20px;
+}
+
+.call-do-box:before {
+  height: 200px;
+}        
+
+  }
+  
+  /* Normal desktop :1300px. */
+  @media (min-width: 1300px) and (max-width: 1399px) {
+  
+  .home-content h1 {
+    font-size: 50px;
+  }
+
+  .feature-two-title h5::before {
+    left: 520px;
+}
+
+  .blog-info h2 {
+    font-size: 20px;
+  }
+
+.feature-two-title h3::before {
+    left: 510px;
+}
+
+.service-two-title h5::before {
+  left: 520px;
+}
+
+.service-two-title h3::before {
+  left: 530px;
+}
+
+.service-two-content p {
+  font-size: 15px;
+}
+
+.team-title h5::before {
+  left: 510px;
+}
+
+.feature-case-title h5::before {
+  left: 585px;
+}
+
+.feature-case-title h2::before {
+  left: 605px;
+}
+
+.pricing-title h5::before {
+  left: 530px;
+}
+
+.pricing-title h2::before {
+  left: 525px;
+}
+
+.blog-title h5::before {
+   display: none;
+}
+
+.testimoonial-section-title h5::before {
+   display: none;
+}
+
+.testimoonial-section-title h2::before {
+  display: none;
+}
+
+.call-do-title h2::before {
+  left: 525px;
+}
+
+.works-title h5::before {
+  left: 490px;
+}
+
+.works-title h3::before {
+  left: 530px;
+}
+
+.work-title h5::before {
+  left: 510px;
+}
+
+.service-four-title h2::before {
+  left: 520px;
+}
+
+.service-title h5::before {
+  left: 515px;
+}
+
+.hero-content h5::before {
+  left: 450px;
+}
+
+.feature-case-button {
+  display: none;
+}
+
+.works-number {
+  left: 75px;
+}
+
+.testimonial-title h5::before {
+  display: none;
+}
+
+.services-title h5::before {
+  display: none;
+}
+
+.services-title h2::before {
+  left: 530px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.progress-title h2::before {
+  left: 500px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+.subscribe-title h3::before {
+  left: 445px;
+}
+
+.feature-title h2::before {
+  left: 525px;
+}
+
+.call-do-box:before {
+  height: 200px;
+}
+
+  }
+
+  
+  /* Normal desktop :1200px. */
+  @media (min-width: 1200px) and (max-width: 1299px) {
+  
+    .home-content h1 {
+      font-size: 50px;
+  }
+
+  .feature-two-title h5::before {
+    left: 520px;
+}
+
+    .blog-info h2 {
+      font-size: 20px;
+  }
+
+  .feature-two-title h3::before {
+    left: 510px;
+}
+
+.about-two-content p {
+  font-size: 13px;
+}
+
+.service-two-title h5::before {
+  left: 520px;
+}
+
+.service-two-title h3::before {
+  left: 530px;
+}
+
+.service-two-content p {
+  font-size: 15px;
+}
+
+.team-title h5::before {
+  left: 510px;
+}
+
+.feature-case-title h5::before {
+  display: none;
+}
+
+.feature-case-content h4 {
+  font-size: 20px;
+}
+
+.feature-case-button {
+  top: 151px;
+  height: 70px;
+  width: 65px;
+}
+
+.feature-case-title h2::before {
+  left: 585px;
+}
+
+.pricing-title h5::before {
+  left: 530px;
+}
+
+.pricing-title h2::before {
+  left: 525px;
+}
+
+.blog-title h5::before {
+   display: none;
+}
+
+.testimoonial-section-title h5::before {
+   display: none;
+}
+
+.testimoonial-section-title h2::before {
+  display: none;
+}
+
+.testimonial-title h5::before {
+  display: none;
+}
+
+.works-title h5::before {
+  display: none;
+}
+
+.works-title h3::before {
+  left: 525px;
+}
+
+.work-title h5::before {
+  display: none;
+}
+
+.service-four-title h2::before {
+  left: 535px;
+}
+
+.service-title h5::before {
+  display: none;
+}
+
+.hero-content h5::before {
+  left: 445px;
+}
+
+.services-title h5::before {
+  display: none;
+}
+
+.services-title h2::before {
+  left: 530px;
+}
+
+.works-number {
+  left: 75px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.progress-title h2::before {
+  left: 500px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+.feature-title h2::before {
+  left: 530px;
+}
+
+.subscribe-title h3::before {
+  left: 440px;
+}
+
+.call-do-box:before {
+  height: 200px;
+}
+
+  }
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.Taklu_menu>ul>li>a {
+  padding: 30px 3px;
+  font-size: 16px;
+}  
+  
+.slide-content h1 {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.hero-content h5::before {
+  display: none;
+}
+
+.header-main-button a {
+  font-size: 13px;
+}
+
+.home-content h1 {
+  font-size: 50px;
+}
+
+.hero-content h1 {
+  font-size: 50px;
+ line-height: 1;
+}
+
+.hero2-content h1 {
+  font-size: 60px;
+  line-height: 1;
+}
+
+.home-two-section {
+  height: 560px;
+}
+
+.home-titles h1 {
+  font-size: 50px;
+  line-height: 1;
+}
+
+/*===============feature-section=============*/
+
+.feature-content h2 {
+  font-size: 20px;
+}
+
+.feature-number h3 {
+  font-size: 90px;
+}
+
+.breadcumb-title h1 {
+  font-size: 50px;
+}
+
+.feature-two-title h5::before {
+ display: none;
+}
+
+.feature-two-title h3::before {
+  display: none;
+}
+
+.feature-two-content h2 {
+  font-size: 18px;
+}
+
+.feature-two-content p {
+  font-size: 11px;
+}
+
+.feature-three-title h3 {
+  font-size: 30px;
+}
+
+.feature-three-title h2 {
+  font-size: 30px;
+}
+
+.feature-title h3 {
+  font-size: 30px;
+}
+
+.feature-title h2 {
+  font-size: 30px;
+}
+
+.subscribe-title h3 {
+  font-size: 30px;
+}
+
+.feature-three-title p {
+  font-size: 16px;
+}
+
+.feature-content p {
+  font-size: 14px;
+}
+
+/*=================service-section=================*/
+.service-title h5::before {
+ display: none;
+}
+
+.service-two-title h5::before {
+  display: none;
+}
+
+.service-two-title h3::before {
+  display: none;
+}
+
+.service-title h3 {
+  font-size: 30px;
+}
+
+.service-title h2 {
+  font-size: 30px;
+}
+
+.counter-titles h1 {
+  font-size: 90px;
+}
+
+.service-two-content h2 {
+  font-size: 19px;
+}
+
+.service-two-content p {
+  font-size: 11px;
+}
+
+.service-four-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h2 {
+  font-size: 30px;
+}
+
+.services-title h5::before {
+  display: none;
+}
+
+.services-title h2::before {
+  left: 455px;
+}
+
+.services-content h2 {
+  font-size: 20px;
+}
+
+.services-title h3 {
+  font-size: 30px;
+}
+
+.services-title h2 {
+  font-size: 30px;
+}
+
+.service-two-title h3 {
+  font-size: 30px;
+}
+
+.single-service-content h2 {
+  font-size: 16px;
+}
+
+.service-four-title h2::before {
+  left: 445px;
+}
+
+.service-three-content h2 {
+  font-size: 15px;
+}
+
+.service-three-content p {
+  font-size: 14px;
+}
+
+.service-two-content h2 a {
+  font-size: 22px;
+}
+
+.services-content h2 a {
+  font-size: 20px;
+}
+
+.feature-case-title h5::before {
+ display: none;
+}
+
+.feature-case-title h2::before {
+  display: none;
+}
+
+.pricing-title h5::before {
+  display: none;
+}
+
+.pricing-title h2::before {
+  display: none;
+}
+
+.pricing .tk {
+  font-size: 50px;
+}
+
+.pricing-head h3 {
+  font-size: 22px;
+}
+
+.pricing-title h3 {
+  font-size: 30px;
+}
+
+.pricing-title h2 {
+  font-size: 30px;
+}
+
+.testimoonial-section-title h5::before {
+  display: none;
+}
+
+.testimoonial-section-title h2::before {
+  display: none;
+}
+
+.testimonial-title h5::before {
+  display: none;
+}
+
+.feature-case-button {
+  display: none;
+}
+
+.feature-three-content h2 {
+  font-size: 20px;
+}
+
+.feature-three-discs p {
+  font-size: 16px;
+}
+
+/*=================about-section=================*/
+.about-title h3 {
+  font-size: 30px;
+}
+
+.about-title h2 {
+  font-size: 30px;
+}
+
+.about-title p {
+  font-size: 15px;
+}
+
+.about-disc p {
+  font-size: 16px;
+}
+
+.about-content p {
+  font-size: 14px;
+}
+
+.features-disc p {
+  font-size: 13px;
+}
+
+.work-title h5::before {
+  display: none;
+}
+
+.works-title h3 {
+  font-size: 30px;
+}
+
+.team-title h5::before {
+  display: none;
+}
+
+.team-title h3 {
+  font-size: 30px;
+}
+
+.team-title h2 {
+  font-size: 30px;
+}
+
+.team-detail-title h2 {
+  font-size: 30px;
+}
+
+.team2-sub-title h4 {
+  font-size: 20px;
+}
+
+.testimonial-title h5::before {
+  display: none;
+}
+
+.testimonial-thumb::after {
+  right: 35px;
+}
+
+.testimonial-title h3 {
+  font-size: 30px;
+}
+
+.testimonial-title h2 {
+  font-size: 30px;
+}
+
+.team-social-list {
+  width: 50%;
+}
+
+.testimoonial-section-title h3 {
+  font-size: 30px;
+}
+
+.testimoonial-section-title h2 {
+  font-size: 30px;
+}
+
+.owl-dots {
+  bottom: -25px;
+}
+
+.blog-title h5::before {
+  display: none;
+}
+
+.blog-disc p {
+  width: 100%;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.call-content h2 {
+  font-size: 17px;
+}
+
+.call-do-box:before {
+  height: 190px;
+}
+
+.faq-title h3 {
+  font-size: 30px;
+}
+
+.company-info-desc p {
+  font-size: 13px;
+}
+
+.about-content ul li a {
+  font-size: 12px;
+}
+
+.single_case_study_icon {
+  top: 320px;
+}
+
+/*==============work-section============*/
+.work-title h3 {
+  font-size: 30px;
+}
+
+.work-title h2 {
+  font-size: 30px;
+}
+
+.works-title h5::before {
+  display: none;
+}
+
+.works-title h3::before {
+  display: none;
+}
+
+.works-number {
+  left: 38px;
+}
+
+.choose-title h3 {
+  font-size: 30px;
+}
+
+.choose-title h2 {
+  font-size: 30px;
+}
+
+.choose-content h2 {
+  font-size: 20px;
+}
+
+.choose-content p {
+  font-size: 15px;
+}
+
+/*===============blog-section=================*/
+.blog-title h3 {
+  font-size: 30px;
+}
+
+.blog-title h2 {
+  font-size: 30px;
+}
+
+.blog-info h2 {
+  font-size: 16px;
+}
+
+.blog-details-title h2 {
+  font-size: 30px;
+}
+
+.blog-button a {
+  font-size: 14px;
+  padding: 7px 30px;
+}
+
+.contacts-title h2 {
+  font-size: 30px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.progress-title h3 {
+  font-size: 30px;
+}
+
+.progress-title h2 {
+  font-size: 30px;
+}
+
+.progress-title h2::before {
+  left: 410px;
+}
+
+.circle-chart__subline {
+  font-size: 6px;
+}
+
+.call-do-title h3 {
+  font-size: 30px;
+}
+
+.call-do-title h2 {
+  font-size: 30px;
+}
+
+.call-do-title h2::before {
+  left: 440px;
+}
+
+.form-button button {
+  font-size: 15px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+.feature-title h2::before {
+  left: 440px;
+}
+
+.subscribe-title h3::before {
+  left: 350px;
+}
+
+}
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .sticky {
+    position: absolute !important;
+  } 
+
+.Taklu_nav_manu {
+  display: none;
+}
+
+.header-top-area {
+  display: none !important;
+}
+
+.breadcumb-title h1 {
+  font-size: 40px;
+}
+
+.slide-content h1 {
+  font-size: 40px;
+ line-height: 1;
+}
+
+.hero-content h5::before {
+  display: none;
+}
+
+.slide-content p {
+  width: 80%;
+}
+
+.feature-number h3 {
+  font-size: 80px;
+}
+
+.home-content h1 {
+  font-size: 40px;
+ line-height: 1;
+}
+
+.hero-content h1 {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.hero2-content h1 {
+  font-size: 50px;
+ line-height: 1;
+}
+
+.home-two-section {
+  height: 560px;
+}
+
+.home-titles h1 {
+  font-size: 45px;
+  line-height: 1;
+}
+
+/*==============service-section===============*/
+.service-title h5::before {
+  display: none;
+ }
+ 
+ .service-two-title h5::before {
+   display: none;
+ }
+ 
+ .service-two-title h3::before {
+   display: none;
+ }
+
+ .service-title h5::before {
+  display: none;
+ }
+
+ .service-title h2 {
+  font-size: 30px;
+}
+ 
+ .counter-titles h1 {
+   font-size: 90px;
+ }
+ 
+ .service-two-content h2 {
+   font-size: 19px;
+ }
+ 
+ .service-two-content p {
+   font-size: 13px;
+ }
+
+ .service-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h2 {
+  font-size: 30px;
+}
+
+.services-title h5::before {
+  display: none;
+}
+
+.services-title h2::before {
+  left: 320px;
+}
+
+.services-title h3 {
+  font-size: 30px;
+}
+
+.services-title h2 {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.service-two-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h2::before {
+  left: 315px;
+}
+.service-details-title h2 {
+  font-size: 25px;
+}
+
+.service-four-title p {
+  width: 100%;
+}
+
+/*==============feature-section=================*/
+ 
+ .feature-case-title h5::before {
+  display: none;
+ }
+ 
+ .feature-case-title h2::before {
+   display: none;
+ }
+
+ .feature-title h3 {
+  font-size: 30px;
+}
+
+.feature-title h2 {
+  font-size: 30px;
+}
+
+.subscribe-title h3 {
+  font-size: 30px;
+}
+
+.feature-title h2::before {
+  left: 320px;
+}
+
+.feature-disc p {
+  font-size: 14px;
+}
+
+.feature-content h2 {
+  font-size: 20px;
+}
+
+.subscribe-title h3::before {
+  left: 215px;
+}
+ 
+ .pricing-title h5::before {
+   display: none;
+ }
+ 
+ .pricing-title h2::before {
+   display: none;
+ }
+
+ .pricing-title h3 {
+  font-size: 30px;
+}
+
+.pricing-title h2 {
+  font-size: 30px;
+}
+
+.pricing-head h3 {
+  font-size: 22px;
+}
+
+.pricing .tk {
+  font-size: 40px;
+}
+
+.price-btn a {
+  font-size: 15px;
+}
+ 
+ .testimoonial-section-title h5::before {
+   display: none;
+ }
+ 
+ .testimoonial-section-title h2::before {
+   display: none;
+ }
+
+ 
+ .feature-case-button {
+   display: none;
+ }
+
+ .feature-two-title h5::before {
+  display: none;
+ }
+ 
+ .feature-two-title h3::before {
+   display: none;
+ }
+
+ .feature-three-title p {
+  font-size: 16px;
+}
+
+.feature-three-title h3 {
+  font-size: 30px;
+}
+
+.feature-three-title h2 {
+  font-size: 30px;
+}
+
+/*-----------------about-section----------------*/  
+.about-title h3 {
+  font-size: 30px;
+}
+
+.about-title h2 {
+  font-size: 30px;
+}
+
+.about-three-title h3 {
+  font-size: 30px;
+}
+
+.about-three-title h2 {
+  font-size: 30px;
+}
+
+/*-----------------work-section----------------*/  
+.work-title h5::before {
+  display: none;
+}
+
+.work-title h3 {
+  font-size: 30px;
+}
+ 
+.work-title h2 {
+  font-size: 30px;
+}
+
+.works-title h5::before {
+  display: none;
+}
+
+.works-title h3::before {
+  display: none;
+}
+
+.works-number {
+  left: 245px;
+}
+
+.works-title h3 {
+  font-size: 30px;
+}
+
+/*-----------------team-section----------------*/ 
+.team-title h5::before {
+  display: none;
+}
+
+.team-title h3 {
+  font-size: 30px;
+}
+
+.team-title h2 {
+  font-size: 30px;
+}
+
+.team-social-list a {
+  margin-left: 5px;
+}
+
+.team-detail-title h2 {
+  font-size: 30px;
+}
+
+.teams-title h3 {
+  font-size: 25px;
+}
+
+.team-single-thumb {
+  margin-bottom: 120px;
+}
+
+.testimonial-title h3 {
+  font-size: 30px;
+}
+
+.testimonial-title h2 {
+  font-size: 30px;
+}
+
+/*=================counter-section=================*/
+
+ .counter-titles h1 {
+  font-size: 90px;
+}
+
+.counter-title h1 {
+  font-size: 38px;
+}
+
+.counter-two-title h1 {
+  font-size: 30px;
+}
+
+.counter-three-title h1 {
+  font-size: 35px;
+}
+
+.choose-title h3 {
+  font-size: 30px;
+}
+
+.choose-title h2 {
+  font-size: 30px;
+}
+
+.single_case_study_icon {
+  top: 210px;
+}
+
+/*-----------------testimonial-section----------------*/
+
+.testimonial-title h5::before {
+  display: none;
+}
+
+.testimonial-thumb::after {
+  right: 35px;
+}
+
+.testimonial-section .owl-dots {
+  bottom: -20px;
+}
+
+.testimoonial-section-title h3 {
+  font-size: 25px;
+}
+
+.testimoonial-section-title h2 {
+  font-size: 25px;
+}
+
+/*=============blog-section=============*/
+
+.blog-title h5::before {
+  display: none;
+}
+
+.blog-info h2 {
+  font-size: 18px;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.blog-title h3 {
+  font-size: 30px;
+}
+
+.blog-title h2 {
+  font-size: 30px;
+}
+
+.blog-details-title h2 {
+  font-size: 25px;
+}
+
+.owl-dots {
+  bottom: -35px;
+}
+
+.call-icon {
+  font-size: 35px;
+}
+
+.call-content h2 {
+  font-size: 18px;
+}
+
+.progress-title h2::before {
+  left: 330px;
+}
+
+.faq-title h3 {
+  font-size: 30px;
+}
+
+.accordion li p {
+  font-size: 12px;
+}
+
+.contacts-title h2 {
+  font-size: 30px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.progress-title h3 {
+  font-size: 25px;
+}
+
+.progress-title h2 {
+  font-size: 25px;
+}
+
+.circle-chart {
+  width: 160px !important;
+}
+
+.call-do-title h3 {
+  font-size: 25px;
+}
+
+.call-do-title h2 {
+  font-size: 25px;
+}
+
+.form-button button {
+  font-size: 15px;
+}
+
+.call-do-title h2::before {
+  left: 310px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+  .sticky {
+    position: absolute !important;
+  } 
+
+  .Taklu_nav_manu {
+    display: none;
+  } 
+
+  .header-top-area {
+    display: none !important;
+}
+
+.breadcumb-title h1 {
+  font-size: 45px;
+}
+
+.slide-content h1 {
+  font-size: 30px;
+  line-height: 1;
+}
+
+.slide-content p {
+  font-size: 17px;
+  line-height: 1.5;
+  width: 100%;
+}
+
+.slide-main-button a {
+  font-size: 14px;
+}
+
+.home-content h1 {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.home-content p {
+  font-size: 16px;
+}
+
+.hero-content h5::before {
+  display: none;
+}
+
+.hero-content h1 {
+  font-size: 35px;
+  line-height: 1;
+}
+
+.hero-content p {
+  font-size: 16px;
+}
+
+.main-button {
+  font-size: 12px;
+}
+
+.slide-btn2 {
+  font-size: 12px;
+}
+
+.hero2-content h1 {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.hero2-content p {
+  font-size: 16px;
+}
+
+.home-two-section {
+  height: 465px;
+}
+
+.home-titles h1 {
+  font-size: 25px;
+  line-height: 1;
+}
+
+.home-titles p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+/*=================feature-section=================*/
+.feature-number h3 {
+  font-size: 80px;
+}
+
+.feature-case-button {
+  top: 282px;
+}
+
+.feature-three-title h3 {
+  font-size: 30px;
+}
+
+.feature-three-title h2 {
+  font-size: 30px;
+}
+
+.feature-three-discs p {
+  font-size: 16px;
+}
+
+.feature-three-title p {
+  font-size: 16px;
+}
+
+.features-disc p {
+  font-size: 15px;
+}
+
+p.mission-description {
+  font-size: 15px;
+}
+
+.choose-title h3 {
+  font-size: 25px;
+}
+
+.choose-title h2 {
+  font-size: 25px;
+}
+
+.single_case_study_icon {
+  top: 150px;
+}
+
+/*-----------------about-section----------------*/    
+.about-title h3 {
+  font-size: 30px;
+}
+
+.about-title h2 {
+  font-size: 30px;
+}
+
+.about-three-title h2 {
+  font-size: 30px;
+}
+
+.about-disc p {
+  font-size: 15px;
+}
+
+/*--------------service-section-------------*/    
+.service-title h2 {
+  font-size: 30px;
+}
+
+.service-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h2 {
+  font-size: 30px;
+}
+
+.service-four-button a {
+  font-size: 14px;
+}
+
+.services-title h3 {
+  font-size: 25px;
+}
+
+.services-title h2 {
+  font-size: 25px;
+}
+
+.services-content h2 {
+  font-size: 20px;
+}
+
+.services-icon i {
+  font-size: 45px;
+}
+
+.service-two-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h2::before {
+  left: 235px;
+}
+
+.service-details-title h2 {
+  font-size: 22px;
+}
+
+.service-three-content h2 {
+  font-size: 20px;
+}
+
+.services-title h2::before {
+  left: 225px;
+}
+
+.service-four-title p {
+  width: 100%;
+}
+
+/*--------------counter-section-------------*/  
+.counter-titles h1 {
+  font-size: 90px;
+}
+
+.counter-three-title h1 {
+  font-size: 35px;
+}
+
+.progress-title h2::before {
+  left: 230px;
+}
+
+/*--------------work-section-------------*/   
+.work-title h3 {
+  font-size: 30px;
+}
+
+.work-title h2 {
+  font-size: 30px;
+}
+
+.works-title h3 {
+  font-size: 30px;
+}
+
+.works-number {
+  left: 150px;
+}
+
+.case_study_menu ul li {
+  padding: 10px 13px;
+}
+
+.case-study-icon {
+  top: -75px;
+  left: 90px;
+}
+
+/*-------------team-section-------------*/
+.team-title h3 {
+  font-size: 30px;
+}
+
+.team-title h2 {
+  font-size: 30px;
+}
+
+.team-single-thumb {
+  margin-bottom: 125px;
+}
+
+.teams-title h3 {
+  font-size: 22px;
+}
+
+/*--------------testimonial-section-------------*/    
+.testimonial-title h3 {
+  font-size: 30px;
+}
+
+.testimonial-title h2 {
+  font-size: 30px;
+}
+
+.testimonial-thumb::after {
+  font-size: 50px;
+  right: 40px;
+}
+
+.testimonial-section .owl-dots {
+  bottom: -20px;
+}
+
+.testimoonial-section-title h3 {
+  font-size: 30px;
+}
+
+.testimoonial-section-title h2 {
+  font-size: 30px;
+}
+
+.testimoonial-section-title h3 {
+  font-size: 25px;
+}
+
+.testimoonial-section-title h2 {
+  font-size: 25px;
+}
+
+.feature-case-title h3 {
+  font-size: 30px;
+}
+
+.feature-case-title h2 {
+  font-size: 30px;
+}
+
+.about-three-title h3 {
+  font-size: 30px;
+}
+
+.counter-two-title h1 {
+  font-size: 30px;
+}
+
+.pricing-title h3 {
+  font-size: 30px;
+}
+
+.pricing-title h2 {
+  font-size: 30px;
+}
+
+.pricing .tk {
+  font-size: 50px;
+}
+
+/*------------blog-section---------------*/
+.blog-title h5::before {
+  display: none;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.blog-title h3 {
+  font-size: 30px;
+}
+
+.blog-title h2 {
+  font-size: 30px;
+}
+
+.blog-details-title h2 {
+  font-size: 25px;
+}
+
+.owl-dots {
+  bottom: -30px;
+}
+
+.call-icon {
+  font-size: 35px;
+}
+
+.call-content h2 {
+  font-size: 18px;
+}
+
+.call-do-title h3 {
+  font-size: 25px;
+}
+
+.call-do-title h2 {
+  font-size: 25px;
+}
+
+.call-do-title h2::before {
+  left: 220px;
+}
+
+
+.blog-sub-name a {
+  display: none;
+}
+
+.blog-meta {
+  display: none;
+}
+
+.blog-name {
+  display: none;
+}
+
+.blog-info h2 {
+  font-size: 18px;
+}
+
+.blog-disc p {
+  width: 100%;
+  font-size: 16px;
+}
+
+.blog-button a {
+  font-size: 11px;
+}
+
+.team-single-box:hover .team-social-list {
+  top: 110px;
+}
+
+.team-social-list {
+  width: 50%;
+}
+
+.contacts-title h2 {
+  font-size: 30px;
+}
+
+.service-two-content h2 {
+  font-size: 18px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.progress-title h3 {
+  font-size: 25px;
+}
+
+.progress-title h2 {
+  font-size: 25px;
+}
+
+.team-details-title h2 {
+  font-size: 24px;
+}
+
+.team-detail-title h2 {
+  font-size: 25px;
+}
+
+.form-button button {
+  font-size: 15px;
+}
+
+.service-two-content p {
+  font-size: 14px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+.subscribe-title h3 {
+  font-size: 25px;
+}
+
+.feature-title h3 {
+  font-size: 25px;
+}
+
+.feature-title h2 {
+  font-size: 25px;
+}
+
+.feature-content h2 {
+  font-size: 20px;
+}
+
+.subscribe-title h3::before {
+  left: 140px;
+}
+
+.feature-title h2::before {
+  left: 225px;
+}
+
+.faq-title h3 {
+  font-size: 27px;
+}
+
+}
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+
+  .sticky {
+    position: absolute !important;
+  } 
+
+  .Taklu_nav_manu {
+    display: none;
+  } 
+
+  .header-top-area {
+    display: none !important;
+}
+
+.breadcumb-title h1 {
+  font-size: 40px;
+}
+
+.slide-content h1 {
+  font-size: 25px;
+  line-height: 1;
+}
+
+.slide-content p {
+  font-size: 16px;
+ line-height: 1.3;
+ width: 100%;
+}
+
+.slide-main-button a {
+  font-size: 14px;
+}
+
+.home-content h1 {
+  font-size: 40px;
+  line-height: 1;
+}
+
+.home-content p {
+  font-size: 15px;
+}
+
+.hero-content h5::before {
+  display: none;
+}
+
+.hero-content p {
+  font-size: 16px;
+}
+
+.main-button {
+  font-size: 12px;
+}
+
+.slide-btn2 {
+  font-size: 12px;
+}
+
+.hero-content h1 {
+  font-size: 30px;
+  line-height: 1;
+}
+
+.hero2-content h1 {
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+.hero2-content p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.home-two-section {
+  height: 399px;
+}
+
+.home-titles h1 {
+  font-size: 25px;
+  line-height: 1;
+}
+
+.home-titles p {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.hero2-button {
+  position: relative;
+  top: -25px;
+}
+
+.owl-dots {
+  bottom: -30px;
+}
+
+/*============feature-section=============*/
+
+.feature-two-title h3 {
+  font-size: 30px;
+}
+
+.feature-two-content h2 {
+  font-size: 20px;
+}
+
+.feature-case-title h3 {
+  font-size: 30px;
+}
+
+.feature-case-title h2 {
+  font-size: 30px;
+}
+
+.feature-case-button {
+  display: none;
+}
+
+.feature-three-title h3 {
+  font-size: 25px;
+}
+
+.feature-three-title h2 {
+  font-size: 25px;
+}
+
+.feature-three-title p {
+  font-size: 15px;
+}
+
+.feature-three-content h2 {
+  font-size: 20px;
+}
+
+.feature-three-discs p {
+  font-size: 16px;
+}
+
+.features-disc p {
+  font-size: 13px;
+}
+
+p.mission-description {
+  font-size: 13px;
+}
+
+.pricing-title h3 {
+  font-size: 30px;
+}
+
+.pricing-title h2 {
+  font-size: 30px;
+}
+
+.pricing .tk {
+  font-size: 50px;
+}
+
+.service-two-title h3 {
+  font-size: 30px;
+}
+
+.service-four-title h3 {
+  font-size: 25px;
+}
+
+.service-four-title h2 {
+  font-size: 25px;
+}
+
+.service-disc p {
+  font-size: 13px;
+}
+
+.services-title h2::before {
+  left: 200px;
+}
+
+.service-four-title p {
+  width: 100%;
+}
+
+/*=================feature-section=================*/
+.feature-number h3 {
+  font-size: 80px;
+}
+
+.feature-case-content h4 {
+  font-size: 20px;
+}
+
+/*-----------------about-section----------------*/    
+.about-title h3 {
+  font-size: 25px;
+}
+
+.about-title h2 {
+  font-size: 25px;
+}
+
+.about-content p {
+  font-size: 14px;
+}
+
+.about-disc p {
+  font-size: 16px;
+}
+
+/*--------------service-section-------------*/    
+.service-title h2 {
+  font-size: 25px;
+}
+
+.service-title h3 {
+  font-size: 25px;
+}
+
+.service-content h3 {
+  font-size: 20px;
+}
+
+.service-four-button a {
+  font-size: 12px;
+}
+
+.service-three-content h2 {
+  font-size: 20px;
+}
+
+.service-three-content p {
+  font-size: 15px;
+}
+
+.services-title h3 {
+  font-size: 25px;
+}
+
+.services-title h2 {
+  font-size: 25px;
+}
+
+.services-icon i {
+  font-size: 45px;
+}
+
+.services-content h2 {
+  font-size: 20px;
+}
+
+.services-content p {
+  font-size: 14px;
+}
+
+.service-four-title h2::before {
+  left: 200px;
+}
+
+.service-wedget-text p {
+  font-size: 15px;
+}
+
+.service-details-title h2 {
+  font-size: 20px;
+}
+
+.service-details-title p {
+  font-size: 13px;
+}
+
+.single-service-content h2 {
+  font-size: 20px;
+}
+
+/*--------------counter-section-------------*/  
+.counter-titles h1 {
+  font-size: 70px;
+}
+
+.counter-title h1 {
+  font-size: 30px;
+}
+
+.counter-two-title h1 {
+  font-size: 25px;
+}
+
+.counter-three-title h1 {
+  font-size: 30px;
+}
+
+.counter-text h6 {
+  font-size: 20px;
+}
+
+.progress-title h2::before {
+  left: 200px;
+}
+
+.choose-content h2 {
+  font-size: 20px;
+}
+
+.choose-icon i {
+  font-size: 35px;
+}
+
+.choose-title h3 {
+  font-size: 25px;
+}
+
+.choose-title h2 {
+  font-size: 25px;
+}
+
+.single_case_study_icon {
+  top: 310px;
+}
+
+/*--------------work-section-------------*/   
+.work-title h3 {
+  font-size: 25px;
+}
+
+.work-title h2 {
+  font-size: 25px;
+}
+
+.works-title h3 {
+  font-size: 25px;
+}
+
+.works-number {
+  left: 120px;
+}
+
+.works-content h2 {
+  font-size: 22px;
+}
+
+.works-content p {
+  font-size: 15px;
+}
+
+.case_study_menu ul li {
+  font-size: 14px;
+  padding: 10px 10px;
+}
+
+/*-------------team-section-------------*/
+.team-title h3 {
+  font-size: 25px;
+}
+
+.team-title h2 {
+  font-size: 25px;
+}
+
+.team-single-thumb {
+  margin-bottom: 125px;
+}
+
+.team-sub-title h4 {
+  font-size: 20px;
+}
+
+.teams-title h3 {
+  font-size: 20px;
+}
+
+/*--------------testimonial-section-------------*/    
+.testimonial-title h3 {
+  font-size: 25px;
+}
+
+.testimonial-title h2 {
+  font-size: 25px;
+}
+
+.testimonial-thumb::after {
+  font-size: 50px;
+  right: 40px;
+}
+
+.testimonial-section .owl-dots {
+  bottom: -20px;
+}
+
+.testimoonial-section-title h3 {
+ font-size: 30px;
+}
+
+.testimoonial-section-title h2 {
+  font-size: 30px;
+ }
+
+ .about-three-title h3 {
+  font-size: 28px;
+}
+
+.about-three-title h2 {
+  font-size: 28px;
+}
+
+/*------------blog-section---------------*/
+.blog-title h5::before {
+  display: none;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.blog-title h3 {
+  font-size: 25px;
+}
+
+.blog-title h2 {
+  font-size: 25px;
+}
+
+.blog-details-title h2 {
+  font-size: 25px;
+}
+
+.call-icon {
+  font-size: 35px;
+}
+
+.call-content h2 {
+  font-size: 18px;
+}
+
+.call-do-title h2 {
+  font-size: 20px;
+}
+
+.call-do-title h3 {
+  font-size: 20px;
+}
+
+.blogs-name {
+  display: none;
+}
+
+.blog-sub-name a {
+  display: none;
+}
+
+.blog-meta {
+  display: none;
+}
+
+.blog-name {
+  display: none;
+}
+
+.blog-info h2 {
+  font-size: 18px;
+}
+
+.blog-disc p {
+  font-size: 15px;
+}
+
+.contacts-title h2 {
+  font-size: 25px;
+}
+
+.contacts-title p {
+  font-size: 15px;
+}
+
+.form-button button {
+  font-size: 14px;
+}
+
+.service-two-content h2 {
+  font-size: 15px;
+}
+
+.service-two-content p {
+  font-size: 9px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.progress-title h3 {
+  font-size: 20px;
+}
+
+.progress-title h2 {
+  font-size: 20px;
+}
+
+.circle-chart {
+  width: 150px !important;
+}
+
+.progress-content h2 {
+  font-size: 13px;
+}
+
+.team-details-title h2 {
+  font-size: 20px;
+}
+
+.team-detail-title h2 {
+  font-size: 20px;
+}
+
+.team-detail-title p {
+  font-size: 14px;
+}
+
+.team-details-title p {
+  font-size: 14px;
+}
+
+.subscribe-title h2 {
+  font-size: 20px;
+}
+
+.subscribe-title h3::before {
+  left: 110px;
+}
+
+.service-two-icon {
+  font-size: 25px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+.feature-title h3 {
+  font-size: 25px;
+}
+
+.feature-title h2 {
+  font-size: 25px;
+}
+
+.feature-content h2 {
+  font-size: 20px;
+}
+
+.feature-title h2::before {
+  left: 190px;
+}
+
+.subscribe-title h3 {
+  font-size: 22px;
+}
+
+.faq-title h3 {
+  font-size: 25px;
+}
+
+.faq-title h2 {
+  font-size: 25px;
+}
+
+.accordion li a {
+  font-size: 16px;
+}
+
+.call-do-title h2::before {
+  left: 190px;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+  .sticky {
+    position: absolute !important;
+  } 
+
+  .Taklu_nav_manu {
+    display: none;
+  } 
+
+  .header-top-area {
+    display: none !important;
+}
+
+.slide-content h1 {
+  font-size: 25px;
+  line-height: 1;
+}
+
+.slide-content p {
+  font-size: 14px;
+ line-height: 1.3;
+ width: 100%;
+}
+
+.slide-main-button a {
+  font-size: 14px;
+}
+
+.home-content h1 {
+  font-size: 30px;
+  line-height: 1;
+}
+
+.home-content p {
+  font-size: 15px;
+}
+
+.hero-content h5::before {
+  display: none;
+}
+
+.hero-content p {
+  font-size: 16px;
+}
+
+.main-button {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.slide-btn2 {
+  font-size: 12px;
+}
+
+.hero-content h1 {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.hero2-content h1 {
+ font-size: 30px;
+ line-height: 1;
+}
+
+.hero2-content p {
+  font-size: 15px;
+  width: 100%;
+  line-height: 1.5;
+}
+
+.home-two-section {
+  height: 309px;
+}
+
+.home-titles h5 {
+  font-size: 20px;
+}
+
+.home-titles h1 {
+  font-size: 25px;
+  line-height: 1;
+}
+
+.home-titles p {
+  font-size: 13px;
+  line-height: 1;
+}
+
+.hero2-button {
+  display: none;
+}
+
+.breadcumb-title h1 {
+  font-size: 30px;
+}
+
+/*=================feature-section=================*/
+.feature-number h3 {
+  font-size: 80px;
+}
+
+.feature-content h2 {
+  font-size: 20px;
+}
+
+.feature-content p {
+  font-size: 14px;
+}
+
+.feature-icon {
+  font-size: 30px;
+}
+
+.feature-case-button {
+  display: none;
+}
+
+.feature-case-content h4 {
+  font-size: 18px;
+}
+
+.feature-case-title h3 {
+  font-size: 25px;
+}
+
+.feature-case-title h2 {
+  font-size: 25px;
+}
+
+.feature-two-content h2 {
+  font-size: 20px;
+}
+
+.feature-two-title h3 {
+  font-size: 21px;
+}
+
+.feature-case-content h4 {
+  font-size: 18px;
+}
+
+.feature-three-title h3 {
+  font-size: 25px;
+}
+
+.feature-three-title h2 {
+  font-size: 25px;
+}
+
+.feature-three-title p {
+  font-size: 15px;
+}
+
+.feature-three-button a {
+  font-size: 12px;
+}
+
+.feature-three-content h2 {
+  font-size: 20px;
+}
+
+.feature-three-discs p {
+  font-size: 13px;
+}
+
+/*-----------------about-section----------------*/    
+.about-title h3 {
+  font-size: 20px;
+}
+
+.about-title h2 {
+  font-size: 20px;
+}
+
+.about-content p {
+  font-size: 14px;
+}
+
+.about-disc p {
+  font-size: 14px;
+}
+
+.about-content ul li a {
+  font-size: 15px;
+}
+
+.about-content h2 {
+  margin-top: 20px;
+}
+
+.about-icon {
+  float: none;
+}
+
+/*--------------service-section-------------*/    
+.service-title h2 {
+  font-size: 20px;
+}
+
+.service-content h3 {
+  font-size: 20px;
+}
+
+.service-two-title h3 {
+  font-size: 25px;
+}
+
+.service-two-disc p {
+  font-size: 14px;
+  width: 100%;
+}
+
+.service-two-content h2 {
+  font-size: 18px;
+}
+
+.service-two-content p {
+  font-size: 11px;
+}
+
+.service-four-button a {
+  font-size: 12px;
+}
+
+.service-title h3 {
+  font-size: 20px;
+}
+
+.service-three-content h2 {
+  font-size: 18px;
+}
+
+.service-three-content p {
+  font-size: 13px;
+}
+
+.service-four-title h3 {
+  font-size: 17px;
+}
+
+.service-four-title h2 {
+  font-size: 17px;
+}
+
+.service-four-title p {
+  font-size: 14px;
+}
+
+.services-title h3 {
+  font-size: 20px;
+}
+
+.services-title h2 {
+  font-size: 20px;
+}
+
+.services-icon i {
+  font-size: 45px;
+}
+
+.services-content h2 {
+  font-size: 20px;
+}
+
+.services-content p {
+  font-size: 14px;
+}
+
+.service-four-title h2::before {
+  left: 110px;
+}
+
+.single-service-content h2 {
+  font-size: 16px;
+}
+
+.service-details-title h2 {
+  font-size: 20px;
+}
+
+.service-details-title p {
+  font-size: 14px;
+}
+
+.service-wedget-info ul li a {
+  font-size: 14px;
+}
+
+.service-disc p {
+  font-size: 13px;
+}
+
+.service-four-title p {
+  width: 100%;
+}
+
+/*--------------counter-section-------------*/  
+.counter-titles h1 {
+  font-size: 70px;
+}
+
+.counter-title h1 {
+  font-size: 30px;
+}
+
+.counter-two-title h1 {
+  font-size: 25px;
+}
+
+.counter-three-title h1 {
+  font-size: 30px;
+}
+
+.counter-text h6 {
+  font-size: 20px;
+}
+
+.counter-text span {
+  width: 100%;
+}
+
+.progress-title h2::before {
+  left: 120px;
+}
+
+.choose-content h2 {
+  font-size: 20px;
+}
+
+.choose-icon i {
+  font-size: 35px;
+}
+
+.choose-title h3 {
+  font-size: 25px;
+}
+
+.choose-title h2 {
+  font-size: 22px;
+}
+
+.single_case_study_icon {
+  top: 190px;
+}
+
+.nav-link {
+  padding: 7px 15px;
+}
+
+/*--------------work-section-------------*/   
+.work-title h3 {
+  font-size: 25px;
+}
+
+.work-title h2 {
+  font-size: 25px;
+}
+
+.works-title h3 {
+  font-size: 25px;
+}
+
+.works-content h2 {
+  font-size: 20px;
+}
+
+.works-content p {
+  font-size: 14px;
+}
+
+.works-title p {
+  font-size: 15px;
+}
+
+.works-number {
+  left: 40px;
+}
+
+.case_study_menu ul li {
+  font-size: 15px;
+  padding: 10px 12px;
+}
+
+.case-study-icon {
+  left: 100px;
+}
+
+/*-------------team-section-------------*/
+.team-title h3 {
+  font-size: 25px;
+}
+
+.team-title h2 {
+  font-size: 25px;
+}
+
+.team-single-thumb {
+  margin-bottom: 125px;
+}
+
+.teams-title h3 {
+  font-size: 20px;
+}
+
+.team-sub-title h4 {
+  font-size: 18px;
+}
+
+.team-social-list {
+  width: 50%;
+}
+
+/*--------------pricing-section-------------*/
+.pricing .tk {
+  font-size: 40px;
+}
+
+.pricing-title h3 {
+  font-size: 25px;
+}
+
+.pricing-title h2 {
+  font-size: 25px;
+}
+
+.pricing-head h3 {
+  font-size: 22px;
+}
+
+.price-btn a {
+  font-size: 15px;
+  padding: 5px 20px;
+}
+
+/*--------------testimonial-section-------------*/    
+.testimonial-title h3 {
+  font-size: 25px;
+}
+
+.testimonial-title h2 {
+  font-size: 25px;
+}
+
+.testimonial-thumb::after {
+  font-size: 50px;
+  right: 40px;
+}
+
+.testimonial-disc p {
+  font-size: 13px;
+  width: 100%;
+}
+
+.testimonial-section .owl-dots {
+  bottom: -20px;
+}
+
+.testimoonial-section-title h3 {
+  font-size: 25px;
+}
+
+.testimoonial-section-title h2 {
+  font-size: 25px;
+}
+
+.testi-description p {
+  font-size: 14px;
+}
+
+.testimonial-thumb {
+  float: none;
+}
+
+/*------------blog-section---------------*/
+.blog-title h5::before {
+  display: none;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.blog-title h3 {
+  font-size: 25px;
+}
+
+.blog-title h2 {
+  font-size: 25px;
+}
+
+.call-icon {
+  font-size: 35px;
+}
+
+.call-content h2 {
+  font-size: 13px;
+}
+
+.call-do-title h3 {
+  font-size: 17px;
+}
+
+.call-do-title h2 {
+  font-size: 17px;
+}
+
+.call-do-title h2::before {
+  left: 120px;
+}
+
+.call-do-title p {
+  font-size: 15px;
+}
+
+.blogs-name {
+  display: none;
+}
+
+.blog-sub-name a {
+  display: none;
+}
+
+.blog-meta {
+  display: none;
+}
+
+.blog-name {
+  display: none;
+}
+
+.blog-info h2 {
+  font-size: 17px;
+}
+
+.blog-disc p {
+  font-size: 15px;
+}
+
+.blogs-disc p {
+  width: 100%;
+}
+
+.owl-dots {
+  bottom: -25px;
+}
+
+.about-three-title h3 {
+  font-size: 22px;
+}
+
+.about-three-title h2 {
+  font-size: 22px;
+}
+
+.about-three-title p {
+  width: 100%;
+  line-height: 1;
+}
+
+.people-name h2 {
+  font-size: 18px;
+}
+
+.contacts-title h2 {
+  font-size: 23px;
+}
+
+.contacts-title p {
+  font-size: 14px;
+}
+
+.form-button button {
+  font-size: 12px;
+}
+
+.service-two-content h2 {
+  font-size: 18px;
+}
+
+.service-two-content p {
+  font-size: 14px;
+}
+
+.progress-title h5::before {
+  display: none;
+}
+
+.circle-chart {
+  width: 150px !important;
+}
+
+.progress-content h2 {
+  font-size: 13px;
+}
+
+.progress-title h3 {
+  font-size: 20px;
+}
+
+.progress-title h2 {
+  font-size: 20px;
+}
+
+.team-details-title h2 {
+  font-size: 20px;
+}
+
+.team-detail-title h2 {
+  font-size: 20px;
+}
+
+.team-detail-title p {
+  font-size: 14px;
+}
+
+.team-details-title p {
+  font-size: 14px;
+}
+
+.subscribe-title h2 {
+  font-size: 18px;
+}
+
+.contact-singles-box {
+  padding: 0;
+}
+
+.service-two-icon {
+  font-size: 25px;
+}
+
+.service-two-content h2 a {
+  font-size: 20px;
+}
+
+.subscribe-title h5::before {
+  display: none;
+}
+
+.feature-title h5::before {
+  display: none;
+}
+
+.feature-title h3 {
+  font-size: 20px;
+}
+
+.feature-title h2 {
+  font-size: 20px;
+}
+
+.feature-disc p {
+  font-size: 14px;
+}
+
+.feature-title h2::before {
+  left: 115px;
+}
+
+.subscribe-title h3::before {
+  left: 30px;
+}
+
+.subscribe-title h3 {
+  font-size: 18px;
+}
+
+.blog-details-title h2 {
+  font-size: 22px;
+}
+
+.faq-title h3 {
+  font-size: 25px;
+}
+
+.faq-title h2 {
+  font-size: 24px;
+}
+
+.accordion li a {
+  font-size: 16px;
+}
+
+.blog-button a {
+  font-size: 14px;
+  padding: 8px 20px;
+}
+
+}
+
